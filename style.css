@@ -47,3 +47,45 @@
 body {
     margin: 0
 }
+
+.donate-title {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 5%;
+    color: #252525;
+}
+
+.donate-p {
+    font-size: 18px;
+    padding-left: 25%;
+    padding-right: 25%;
+    line-height: 30px;
+    color: #7c7c7c;
+    font-weight: 500;
+}
+
+.flexible-container {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    display: flex;
+
+    padding-left: 18%;
+    color: #7c7c7c;
+}
+
+.half-width {
+    text-align: center;
+    width: 15%;
+}
+
+.orange-color {
+    color: orangered;
+    background-color: #e2e2e2;
+    padding: 15px 25px;
+    border-radius: 15px;
+    border: 2px solid orangered;
+
+}

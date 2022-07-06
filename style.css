@@ -42,6 +42,7 @@
     margin-left: 45%;
     text-align: center;
     position: relative;
+    align-items: center;
 }
 
 .hero {
@@ -162,6 +163,7 @@ input {
     padding-right: 3%;
     padding-top: 3%;
     padding-bottom: 1%;
+    box-shadow: -1px 15px 50px 5px #c2c2c2;
 }
 
 .plan-2 {
@@ -170,6 +172,7 @@ input {
     padding-right: 3%;
     padding-top: 3%;
     padding-bottom: 1%;
+    box-shadow: -1px 15px 50px 5px #c2c2c2;
 }
 
 .plan-3 {
@@ -178,4 +181,5 @@ input {
     padding-right: 3%;
     padding-top: 3%;
     padding-bottom: 1%;
+    box-shadow: -1px 15px 50px 5px #c2c2c2;
 }

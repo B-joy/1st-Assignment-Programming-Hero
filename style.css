@@ -34,12 +34,14 @@
 
 .Call-to-action-2 {
     background-color: orangered;
-    padding: 15px 20px;
+    padding: 15px 25px;
     border-radius: 10px;
-    display: inline-block;
-    margin: 2%;
+    display: inline;
+    margin: auto;
     font-family: 'Montserrat', sans-serif;
-    margin-left: 42.5%;
+    margin-left: 45%;
+    text-align: center;
+
 
 }
 
@@ -82,8 +84,8 @@ body {
     font-size: 30px;
     font-weight: 500;
     display: flex;
-
-    padding-left: 18%;
+    margin: auto;
+    padding-left: 20%;
     color: #7c7c7c;
 }
 
@@ -105,7 +107,23 @@ body {
     display: flex;
     height: 40px;
     text-align: center;
-    padding-left: 42%;
+    margin: auto;
     padding-top: 25px;
+    border: none;
+    justify-content: center;
+    margin: auto;
+    padding-bottom: 2%;
+}
 
+.plan-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.donate-p-2 {
+    font-size: 20px;
 }

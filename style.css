@@ -32,6 +32,17 @@
     margin: 5%;
 }
 
+.Call-to-action-2 {
+    background-color: orangered;
+    padding: 15px 20px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 2%;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 42.5%;
+
+}
+
 .hero {
     background: linear-gradient(#00000023, black), url(./images/donation13.jpg);
     background-repeat: no-repeat;
@@ -87,5 +98,14 @@ body {
     padding: 15px 25px;
     border-radius: 15px;
     border: 2px solid orangered;
+
+}
+
+.donation-box {
+    display: flex;
+    height: 40px;
+    text-align: center;
+    padding-left: 42%;
+    padding-top: 25px;
 
 }

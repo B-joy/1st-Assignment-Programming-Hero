@@ -183,3 +183,40 @@ input {
     padding-bottom: 1%;
     box-shadow: -1px 15px 50px 5px #c2c2c2;
 }
+
+.raised-money {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 400px;
+
+}
+
+.donors {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    width: 400px;
+}
+
+.worldwide {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    width: 400px;
+}
+
+.achievement {
+    display: flex;
+    margin-left: 14%;
+}
+
+p {
+    font-size: 18px;
+}
+
+.our-achievement {
+    font-family: 'Montserrat', sans-serif;
+}

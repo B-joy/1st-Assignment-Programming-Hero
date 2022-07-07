@@ -138,6 +138,7 @@ input {
     font-size: 20px;
     margin-top: 5px;
     margin: -15px;
+    color: #7c7c7c;
 }
 
 .Donate-today {
@@ -219,4 +220,51 @@ p {
 
 .our-achievement {
     font-family: 'Montserrat', sans-serif;
+}
+
+
+
+
+.Call-to-action-3 {
+    background-color: orangered;
+    padding: 20px 25px;
+    display: inline-flex;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 60%;
+    margin-top: -100%;
+    text-align: center;
+    position: relative;
+    align-items: center;
+
+
+}
+
+
+.newsl {
+    border: 1px solid #252525;
+    display: inline-flex;
+    margin-left: 40%;
+
+
+}
+
+footer {
+    text-align: center;
+    font-family: 'Yellowtail', cursive;
+    font-size: 36px;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    background: #131313;
+    height: 200px;
+    color: #c2c2c2;
+    line-height: 24px;
+}
+
+.red {
+    color: crimson;
+}
+
+.p-size {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
 }
